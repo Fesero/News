@@ -1,0 +1,10 @@
+body {
+    font-size: 13px;
+    font-family: 'PT Sans', sans-serif;
+    line-height: 18px;
+}
+
+h1 {
+    padding-bottom: 7px;
+    border-bottom: 1px dotted #832b5b;
+}

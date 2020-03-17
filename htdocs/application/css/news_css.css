@@ -1,0 +1,29 @@
+h4 {
+    padding-top: 13px;
+    border-top: 1px dotted #832b5b;
+    margin-bottom: 0;
+}
+
+.date {
+    background-color: #832b5b;
+    color: white;
+    padding: 2px;
+}
+
+.btn {
+    color: black;
+    display: inline-block;
+    background-color: #edefeb;
+    text-decoration: none;
+    border: 1px groove #caccc9;
+    text-align: center;
+    padding-bottom: 3px;
+    width: 30px;
+    height: 14px;
+    margin-top: 3px;
+}
+
+.btn:hover {
+    color: white;
+    background: #832b5b;
+}
