@@ -1,7 +1,7 @@
 <head>
     <link rel="stylesheet" type="text/css" href="/application/css/news_css.css">
 </head>
-<h1>Новости2</h1>
+<h1>Новости4</h1>
 <p>
     <?php
     $rows = $data->fetchAll();
